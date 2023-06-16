@@ -1,7 +1,6 @@
 Ini adalah baris pertama di latihan 1
 Menambahkan baris kedua
 Menambahkan bari ketiga
-Saya juga mau menambahkan baris keempat
 Riski Manik menambahkan baris ke 5
 print('Hello, Wolrd');
 Halo Pak! :D
