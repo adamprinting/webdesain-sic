@@ -1,1 +1,2 @@
 Ini adalah baris pertama di latihan 1
+Menambahkan baris kedua
