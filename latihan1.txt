@@ -5,3 +5,4 @@ Riski Manik menambahkan baris ke 5
 print('Hello, Wolrd');
 Halo Pak! :D
 siang pak))
+Tambah Adam Printing
